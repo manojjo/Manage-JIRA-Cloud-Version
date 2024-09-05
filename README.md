@@ -61,4 +61,42 @@ Managing Versions: Users with the "Manage Version" permission can navigate to th
 ## Conclusion
 This plugin enables more efficient and flexible version management in Jira projects by delegating version control responsibilities to non-administrators. The "Manage Version" permission allows teams to better control and update project versions without needing full project administrative rights, while ensuring that only project administrators can perform sensitive actions like deleting versions.
 
+# Jira Cloud Plugin: Privacy Policy
 
+## Introduction
+
+This Privacy Policy describes how the Manage Releases Plugin (the "App") collects, uses, and shares information about you when you use the App within Atlassian Jira Cloud. By using the App, you agree to the collection and use of information in accordance with this policy.
+
+## Information We Collect
+
+The App may collect the following types of information: User Information: The App may access your Jira user profile, including your username, account ID, and project roles, to manage permissions and functionality within the App. Project Information: The App may access and manage Jira project data, including project keys, version information, and project permissions.
+
+## How We Use Information
+
+The information collected is used solely for the purpose of providing the functionality of the Manage Version Plugin, including: Managing Versions: The App allows users to manage Jira project versions without requiring full Project Administrator rights. Permission Management: The App checks and manages user permissions within Jira to ensure that only authorized users can manage versions.
+
+## Sharing of Information
+
+The Manage Version Plugin does not share your information with any third parties. All data accessed by the App is used exclusively within the Jira Cloud environment and is not transmitted outside of Jira.
+
+## Data Security
+
+We take the security of your data seriously. The App operates within Atlassian's secure cloud environment, and we follow industry best practices to protect your information.
+
+## Your Rights
+
+You have the right to: 
+
+Access: Request access to the information the App collects about you. 
+
+Correction: Request corrections to any information that is inaccurate or incomplete. 
+
+Deletion: Request the deletion of your information if it is no longer necessary for the purposes for which it was collected.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we will notify you of any significant changes by updating the effective date at the top of this policy.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at [support@mj-jugad-apps.atlassian.net].
