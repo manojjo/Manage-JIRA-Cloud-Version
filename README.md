@@ -40,10 +40,10 @@ To ensure data accuracy and consistency, validations are enforced:
 **Release Date:** Must be a valid date, and if specified, cannot precede the start date.
 
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/37761620-ef6d-4abc-9207-37e8f651ede1">
-
+< br / >
 
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/4e0edcb5-5a1f-4e62-9641-4d924cd50536">
-
+< br / >
 
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/aa954942-013b-45e1-9ef4-9cbaafaa9f58">
 
