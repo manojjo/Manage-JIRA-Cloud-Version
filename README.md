@@ -99,4 +99,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [support@mj-jugad-apps.atlassian.net].
+If you have any questions about this Privacy Policy, please contact us at [MJ Jugad Apps Support](mailto:support@mj-jugad-apps.atlassian.net).
